@@ -12,9 +12,9 @@ Se trata sobre la limpieza, tratamineto y el analisis de datos de una empresa de
 
 <p align="justify">
   
-:heavy_check_mark: `Funcionamiento 1:`Limpieza y tratamineto de datos.
+:heavy_check_mark: Limpieza y tratamineto de datos.
 
-:heavy_check_mark: `Funcionamineto 2:`Importación de datos desde un archivo JSON alojado en GitHub.
+:heavy_check_mark: Importación de datos desde un archivo JSON alojado en GitHub.
 
 Desanidamiento de estructuras (customer, phone, internet, account) usando pd.json_normalize para obtener un DataFrame plano.
 
@@ -22,9 +22,9 @@ Revisión de calidad de datos
 
 Transformaciones de texto a sistema binario, renombrado y creacion de columnas..
 
-:heavy_check_mark: `Funcionamiento 3:`Análisis Exploratorio de Datos .
+:heavy_check_mark: Análisis Exploratorio de Datos .
 
-:heavy_check_mark: `Funcionamiento 4:`Estadísticas descriptivas: cálculo de media, mediana, desviación estándar, valores mínimos y máximos para variables numéricas como Cargos_Mensuales, Cargos_Totales y Meses_Permanencia.
+:heavy_check_mark: Estadísticas descriptivas: cálculo de media, mediana, desviación estándar, valores mínimos y máximos para variables numéricas como Cargos_Mensuales, Cargos_Totales y Meses_Permanencia.
 
 Distribución de churn (Baja): gráfico de barras mostrando clientes que permanecieron vs los que cancelaron.
 
